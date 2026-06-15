@@ -1,0 +1,10 @@
+{
+  "id": "card-extractor",
+  "name": "Card Extractor",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Extract structured cards from Obsidian notes with hierarchy preservation",
+  "author": "LEO",
+  "authorUrl": "https://github.com/dragonlau0924",
+  "isDesktopOnly": false
+}
